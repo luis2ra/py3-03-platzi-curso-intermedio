@@ -1,6 +1,6 @@
 # class 10: lambad function
 
-# lambda argumentos: expresion
+# lambda argumento(s): expresion
 
 # función palindrome aplicando una funcion lambda
 palindrome = lambda string: string == string[::-1]
