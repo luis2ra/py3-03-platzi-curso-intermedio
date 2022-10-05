@@ -1,5 +1,5 @@
 def run():
-    print('hola mundo!')
+    print('class 07: Listas y diccionarios anidados')
     my_list = [1, "Hello", True, 4.5]
     my_dict = {"firstname": "Luis", "lastname": "Altuve"}
 
