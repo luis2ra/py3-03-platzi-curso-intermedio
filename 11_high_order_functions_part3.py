@@ -1,5 +1,7 @@
+# class 11: High order functions: map
+
 def run():
-    print('class 11: high order functions (part 3)')
+    print('class 11: high order functions (part 3 - map)')
 
     # de una lista de numeros, obtener los cuadrados, usando 'list comprehensions'
     my_list = [1, 2, 3, 4, 5]

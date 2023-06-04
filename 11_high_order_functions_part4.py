@@ -1,7 +1,8 @@
+# class 11: High order functions: reduce
 import functools
 
 def run():
-    print('class 11: high order functions (part 4)')
+    print('class 11: high order functions (part 4 - reduce)')
 
     # de una lista de numeros, obtener la multiplicacion de todos, usando for
     my_list = [2, 2, 2, 2, 2]

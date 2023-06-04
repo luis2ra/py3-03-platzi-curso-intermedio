@@ -1,3 +1,11 @@
+# class 11: High order functions
+'''
+Función de orden superior
+
+Es una función que recibe como parámetro a otra función
+
+'''
+
 def saludo(func):
     func()
 

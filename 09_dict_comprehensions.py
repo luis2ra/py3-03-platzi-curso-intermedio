@@ -1,3 +1,5 @@
+# class 09: Dictionary comprehensions
+
 import math
 
 def run():
@@ -10,7 +12,11 @@ def run():
         cubes[i] = i ** 3
     # print(cubes)
 
-    # {key:value for key in iterable if condition}
+    '''
+    Esquema de un dictionary comprehensions:
+    
+    {key:value for key in iterable if condition}
+    '''
     challenge = {i: i ** 3 for i in range (1, 101) if i % 3 != 0}
     # print(challenge)
 

@@ -1,4 +1,4 @@
-# proyecto demo
+# class 12: Proyecto de filtrado de datos
 
 # definicion de la constante DATA
 DATA = [

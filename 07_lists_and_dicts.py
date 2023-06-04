@@ -1,3 +1,5 @@
+# class 07: Listas y diccionarios anidados
+
 def run():
     print('class 07: Listas y diccionarios anidados')
     my_list = [1, "Hello", True, 4.5]
@@ -17,9 +19,11 @@ def run():
         "float_nums": [-0.5, 0.5, 1.2, 2.3, 3.3],
     }
 
+    print('recorriendo los items de un diccionario...')
     for key, value in super_dict.items():
         print(key, "-", value)
 
+    print('recorriendo los items de una lista...')
     for index, item in enumerate(super_list):
         print(index, "-", item)
 

@@ -1,5 +1,7 @@
+# class 11: High order functions: filter
+
 def run():
-    print('class 11: high order functions (part 2)')
+    print('class 11: high order functions (part 2 - filter)')
 
     # de una lista de numeros, imprimir los numeros impares, usando 'list comprehensions'
     my_list = [1, 4, 5, 6, 9, 13, 19, 21]
